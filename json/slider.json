@@ -1,0 +1,203 @@
+[
+    {
+        "description": "",
+        "id": 0,
+        "largemetaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+        "media": {
+          "artist": [
+            {
+              "artistId": 0,
+              "artistName": "Nodenote Originals",
+              "artistType": null,
+              "artistTypeId": 0,
+              "id": 0
+            }
+          ],
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+          "description": null,
+          "id": 0,
+          "language": {
+            "covermetaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+            "id": 0,
+            "status": true,
+            "title": "string"
+          },
+          "metaDescription": "string",
+          "metametaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+          "metaTitle": "string",
+          "preference": {
+            "covermetaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+            "dateCreated": "2023-08-13T11:05:24.257Z",
+            "dateUpdated": "2023-08-13T11:05:24.257Z",
+            "displayHome": true,
+            "homeSortOrder": 0,
+            "id": 0,
+            "navigationSortOrder": 0,
+            "status": true,
+            "thumbnail": "string",
+            "title": "string"
+          },
+          "premium": true,
+          "status": "Draft",
+          "thumbnail": "string",
+          "title": "string",
+          "type": "Series"
+        },
+        "mediaId": 4,
+        "premium": true,
+        "smallmetaImageUrl": null,
+        "status": true,
+        "title": "Game of Cure"
+      },
+      {
+        "description": "",
+        "id": 1,
+        "largemetaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+        "media": {
+          "artist": [
+            {
+              "artistId": 0,
+              "artistName": "Nodenote Originals",
+              "artistType": null,
+              "artistTypeId": 0,
+              "id": 0
+            }
+          ],
+          "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+          "description": null,
+          "id": 1,
+          "language": {
+            "covermetaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+            "id": 0,
+            "status": true,
+            "title": "string"
+          },
+          "metaDescription": "string",
+          "metametaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+          "metaTitle": "string",
+          "preference": {
+            "covermetaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+            "dateCreated": "2023-08-13T11:05:24.257Z",
+            "dateUpdated": "2023-08-13T11:05:24.257Z",
+            "displayHome": true,
+            "homeSortOrder": 1,
+            "id": 1,
+            "navigationSortOrder": 1,
+            "status": true,
+            "thumbnail": "string",
+            "title": "string"
+          },
+          "premium": true,
+          "status": "Draft",
+          "thumbnail": "string",
+          "title": "string",
+          "type": "Series"
+        },
+        "mediaId": 1,
+        "premium": true,
+        "smallmetaImageUrl": null,
+        "status": true,
+        "title": "Murder in the Lift"
+      },
+      {
+        "description": "",
+        "id": 2,
+        "largemetaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Freal%20paranormal.jpg?alt=media&token=abecd9d7-500a-4589-973a-0c73d3943a4d",
+        "media": {
+          "artist": [
+            {
+              "artistId": 0,
+              "artistName": "Nodenote Originals",
+              "artistType": null,
+              "artistTypeId": 0,
+              "id": 0
+            }
+          ],
+          "coverImage": null,
+          "description": null,
+          "id": 2,
+          "language": {
+            "covermetaImageUrl": null,
+            "id": 0,
+            "status": true,
+            "title": "string"
+          },
+          "metaDescription": "string",
+          "metametaImageUrl": null,
+          "metaTitle": "string",
+          "preference": {
+            "covermetaImageUrl": null,
+            "dateCreated": "2023-08-13T11:05:24.257Z",
+            "dateUpdated": "2023-08-13T11:05:24.257Z",
+            "displayHome": true,
+            "homeSortOrder": 2,
+            "id": 2,
+            "navigationSortOrder": 2,
+            "status": true,
+            "thumbnail": "string",
+            "title": "string"
+          },
+          "premium": true,
+          "status": "Draft",
+          "thumbnail": "string",
+          "title": "string",
+          "type": "Series"
+        },
+        "mediaId": 2,
+        "premium": true,
+        "smallmetaImageUrl": null,
+        "status": true,
+        "title": "Real Paranormal"
+      },
+      {
+        "description": "",
+        "id": 3,
+        "largemetaImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fcopy%20killer.jpg?alt=media&token=6d87b488-aa27-4d25-ab69-d91c181ab771",
+        "media": {
+          "artist": [
+            {
+              "artistId": 0,
+              "artistName": "Nodenote Originals",
+              "artistType": null,
+              "artistTypeId": 0,
+              "id": 0
+            }
+          ],
+          "coverImage": null,
+          "description": null,
+          "id": 3,
+          "language": {
+            "covermetaImageUrl": null,
+            "id": 0,
+            "status": true,
+            "title": "string"
+          },
+          "metaDescription": "string",
+          "metametaImageUrl": null,
+          "metaTitle": "string",
+          "preference": {
+            "covermetaImageUrl": null,
+            "dateCreated": "2023-08-13T11:05:24.257Z",
+            "dateUpdated": "2023-08-13T11:05:24.257Z",
+            "displayHome": true,
+            "homeSortOrder": 3,
+            "id": 3,
+            "navigationSortOrder": 3,
+            "status": true,
+            "thumbnail": "string",
+            "title": "string"
+          },
+          "premium": true,
+          "status": "Draft",
+          "thumbnail": "string",
+          "title": "string",
+          "type": "Series"
+        },
+        "mediaId": 3,
+        "premium": true,
+        "smallmetaImageUrl": null,
+        "status": true,
+        "title": "copy killer"
+      }
+      
+]

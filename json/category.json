@@ -1,0 +1,27 @@
+[
+    {
+		"catalogue_id" : 1,
+		"catalogue_name" : "Administration",
+		"media_name" : "https://img.freepik.com/free-photo/business-man-financial-inspector-secretary-making-report-calculating-checking-balance-internal-revenue-service-inspector-checking-document-audit-concept_1423-126.jpg?size=626&ext=jpg&ga=GA1.1.2005093095.1705035337&semt=sph"
+	},
+	{
+		"catalogue_id" : 2,
+		"catalogue_name" : "Agriculture",
+		"media_name" : "https://img.freepik.com/free-photo/sunny-meadow-landscape_1112-134.jpg?size=626&ext=jpg&ga=GA1.1.2005093095.1705035337&semt=sph"
+	},
+	{
+		"catalogue_id" : 3,
+		"catalogue_name" : "Archaeology",
+		"media_name" : "https://img.freepik.com/free-photo/beautiful-rocky-monument-with-carved-image-human-face-jungle-close-up-view_613910-21517.jpg?size=626&ext=jpg&ga=GA1.1.2005093095.1705035337&semt=sph"
+	},
+	{
+		"catalogue_id" : 4,
+		"catalogue_name" : "Census",
+		"media_name" : "https://img.freepik.com/free-photo/human-resources-concept-with-hand_23-2150389097.jpg?size=626&ext=jpg&ga=GA1.1.2005093095.1705035337&semt=sph"
+	},
+	{
+		"catalogue_id" : 5,
+		"catalogue_name" : "Civil service",
+		"media_name" : "https://im.indiatimes.in/content/2022/Apr/National-Civil-Services-Day_6260eb8577d1e.jpg?w=1200&h=900&cc=1"
+	}
+]

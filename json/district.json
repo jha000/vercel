@@ -1,0 +1,6824 @@
+[
+	{
+		"serial_number" : 1,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 16:34:44",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 2,
+		"district_id" : 1,
+		"district_name" : "EAST GODAVARI",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-12 16:07:41",
+		"updated_by" : 2
+	},
+	{
+		"serial_number" : 3,
+		"district_id" : 2,
+		"district_name" : "ANANTAPUR",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 4,
+		"district_id" : 3,
+		"district_name" : "CHITTOOR",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 5,
+		"district_id" : 4,
+		"district_name" : "KADAPA/ CUDDAPAH (YSR DISTRICT)",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 6,
+		"district_id" : 6,
+		"district_name" : "GUNTUR",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 7,
+		"district_id" : 7,
+		"district_name" : "HYDERABAD",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 8,
+		"district_id" : 8,
+		"district_name" : "KARIMNAGAR",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 9,
+		"district_id" : 9,
+		"district_name" : "KHAMMAM",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 10,
+		"district_id" : 10,
+		"district_name" : "KRISHNA",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 11,
+		"district_id" : 11,
+		"district_name" : "KURNOOL",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 12,
+		"district_id" : 12,
+		"district_name" : "MAHABUBNAGAR",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 13,
+		"district_id" : 13,
+		"district_name" : "MEDAK",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 14,
+		"district_id" : 14,
+		"district_name" : "NALGONDA",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 15,
+		"district_id" : 15,
+		"district_name" : "NELLORE (SRI POTTI SRIRAMULU)",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 16,
+		"district_id" : 16,
+		"district_name" : "PRAKASAM",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 17,
+		"district_id" : 17,
+		"district_name" : "NIZAMABAD",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 18,
+		"district_id" : 18,
+		"district_name" : "RANGAREDDI",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 19,
+		"district_id" : 19,
+		"district_name" : "SRIKAKULAM",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 20,
+		"district_id" : 20,
+		"district_name" : "VISAKHAPATNAM",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 21,
+		"district_id" : 21,
+		"district_name" : "VIZIANAGRAM",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 22,
+		"district_id" : 22,
+		"district_name" : "WARRANGAL",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 23,
+		"district_id" : 23,
+		"district_name" : "WEST GODAVARI",
+		"state_id" : 1,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 24,
+		"district_id" : 24,
+		"district_name" : "ADILABAD",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 25,
+		"district_id" : 25,
+		"district_name" : "ANANTHAPURAM (ANANTAPUR)",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 26,
+		"district_id" : 26,
+		"district_name" : "KADAPA ( CUDDAPAH)",
+		"state_id" : 1,
+		"district_status" : "N",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 27,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 28,
+		"district_id" : 1,
+		"district_name" : "DHUBRI",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 29,
+		"district_id" : 2,
+		"district_name" : "KOKRAJHAR",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 30,
+		"district_id" : 3,
+		"district_name" : "BONGAIGAON",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 31,
+		"district_id" : 4,
+		"district_name" : "GOALPARA",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 32,
+		"district_id" : 5,
+		"district_name" : "BARPETA",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 33,
+		"district_id" : 6,
+		"district_name" : "NALBARI",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 34,
+		"district_id" : 7,
+		"district_name" : "KAMRUP",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 35,
+		"district_id" : 8,
+		"district_name" : "DARRANG",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 36,
+		"district_id" : 9,
+		"district_name" : "SONITPUR",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 37,
+		"district_id" : 10,
+		"district_name" : "LAKHIMPUR",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 38,
+		"district_id" : 11,
+		"district_name" : "DHEMAJI",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 39,
+		"district_id" : 12,
+		"district_name" : "MORIGAON",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 40,
+		"district_id" : 13,
+		"district_name" : "NAGAON",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 41,
+		"district_id" : 14,
+		"district_name" : "GOLAGHAT",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 42,
+		"district_id" : 15,
+		"district_name" : "JORHAT",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 43,
+		"district_id" : 16,
+		"district_name" : "SIBSAGAR",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 44,
+		"district_id" : 17,
+		"district_name" : "DIBRUGARH",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 45,
+		"district_id" : 18,
+		"district_name" : "TINSUKIA",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 46,
+		"district_id" : 19,
+		"district_name" : "KARBI-ANGLONG",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 47,
+		"district_id" : 20,
+		"district_name" : "NORTH CACHAR HILLS",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 48,
+		"district_id" : 21,
+		"district_name" : "KARIMGANJ",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 49,
+		"district_id" : 22,
+		"district_name" : "HILAKANDI",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 50,
+		"district_id" : 23,
+		"district_name" : "CACHAR",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 51,
+		"district_id" : 24,
+		"district_name" : "Mangaldoi",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 52,
+		"district_id" : 25,
+		"district_name" : "Tezpur",
+		"state_id" : 2,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 53,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 54,
+		"district_id" : 1,
+		"district_name" : "ARARIA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 55,
+		"district_id" : 2,
+		"district_name" : "AURANGABAD",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 56,
+		"district_id" : 3,
+		"district_name" : "BEGUSARAI",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 57,
+		"district_id" : 4,
+		"district_name" : "BHAGALPUR",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 58,
+		"district_id" : 5,
+		"district_name" : "BANKA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 59,
+		"district_id" : 6,
+		"district_name" : "BHOJPUR",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 60,
+		"district_id" : 7,
+		"district_name" : "BUXAR",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 61,
+		"district_id" : 8,
+		"district_name" : "BHABHUA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 62,
+		"district_id" : 9,
+		"district_name" : "BOKARO",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 63,
+		"district_id" : 10,
+		"district_name" : "CHATRA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 64,
+		"district_id" : 11,
+		"district_name" : "DARBHANGA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 65,
+		"district_id" : 12,
+		"district_name" : "DEOGHAR",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 66,
+		"district_id" : 13,
+		"district_name" : "DHANBAD",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 67,
+		"district_id" : 14,
+		"district_name" : "DUMKA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 68,
+		"district_id" : 15,
+		"district_name" : "EAST CHAMPARAN",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 69,
+		"district_id" : 16,
+		"district_name" : "EAST SINGBHUM",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 70,
+		"district_id" : 17,
+		"district_name" : "GAYA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 71,
+		"district_id" : 18,
+		"district_name" : "GIRIDIH",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 72,
+		"district_id" : 19,
+		"district_name" : "GODDA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 73,
+		"district_id" : 20,
+		"district_name" : "GOPALGANJ",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 74,
+		"district_id" : 21,
+		"district_name" : "GUMLA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 75,
+		"district_id" : 22,
+		"district_name" : "GARHWA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 76,
+		"district_id" : 23,
+		"district_name" : "HAZARIBAGH",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 77,
+		"district_id" : 24,
+		"district_name" : "JAHANABAD AND ARWAL",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 78,
+		"district_id" : 25,
+		"district_name" : "JAMUI",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 79,
+		"district_id" : 26,
+		"district_name" : "KATIHAR",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 80,
+		"district_id" : 27,
+		"district_name" : "KHAGARIA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 81,
+		"district_id" : 28,
+		"district_name" : "KISHANGANJ",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 82,
+		"district_id" : 29,
+		"district_name" : "KODARMA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 83,
+		"district_id" : 30,
+		"district_name" : "LOHARDAGGA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 84,
+		"district_id" : 31,
+		"district_name" : "MADHEPURA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 85,
+		"district_id" : 32,
+		"district_name" : "MADHUBANI",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 86,
+		"district_id" : 33,
+		"district_name" : "LAKHISARAI/MUNGER/SHEKHPURA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 87,
+		"district_id" : 34,
+		"district_name" : "MUZAFFARPUR",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 88,
+		"district_id" : 35,
+		"district_name" : "NALANDA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 89,
+		"district_id" : 36,
+		"district_name" : "NAWADA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 90,
+		"district_id" : 37,
+		"district_name" : "PALAMU",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 91,
+		"district_id" : 38,
+		"district_name" : "PAKUR",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 92,
+		"district_id" : 39,
+		"district_name" : "PATNA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 93,
+		"district_id" : 40,
+		"district_name" : "PURNEA",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 94,
+		"district_id" : 41,
+		"district_name" : "RANCHI",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 95,
+		"district_id" : 42,
+		"district_name" : "SARAN(CHHAPRA)",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 96,
+		"district_id" : 43,
+		"district_name" : "VAISHALI",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 97,
+		"district_id" : 44,
+		"district_name" : "SAHEBGANJ",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 98,
+		"district_id" : 45,
+		"district_name" : "SAMASTIPUR",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 99,
+		"district_id" : 46,
+		"district_name" : "SIWAN",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 100,
+		"district_id" : 47,
+		"district_name" : "SITAMARHI & SHIVHAR",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 101,
+		"district_id" : 48,
+		"district_name" : "ROHTAS",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 102,
+		"district_id" : 49,
+		"district_name" : "SUPAUL",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 103,
+		"district_id" : 50,
+		"district_name" : "WEST CHAMPARAN",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 104,
+		"district_id" : 51,
+		"district_name" : "WEST SINGHBHUM",
+		"state_id" : 3,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 105,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 106,
+		"district_id" : 1,
+		"district_name" : "KHEDA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 107,
+		"district_id" : 2,
+		"district_name" : "AMRELI",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 108,
+		"district_id" : 3,
+		"district_name" : "BANASKANTHA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 109,
+		"district_id" : 4,
+		"district_name" : "BHARUCH",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 110,
+		"district_id" : 5,
+		"district_name" : "BHAVNAGAR",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 111,
+		"district_id" : 6,
+		"district_name" : "GANDHINAGAR",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 112,
+		"district_id" : 7,
+		"district_name" : "JAMNAGAR",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 113,
+		"district_id" : 8,
+		"district_name" : "JUNAGADH",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 114,
+		"district_id" : 9,
+		"district_name" : "KUTCH",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 115,
+		"district_id" : 10,
+		"district_name" : "KHEDA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 116,
+		"district_id" : 11,
+		"district_name" : "MEHSANA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 117,
+		"district_id" : 12,
+		"district_name" : "PANCHMAHALS",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 118,
+		"district_id" : 13,
+		"district_name" : "RAJKOT",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 119,
+		"district_id" : 14,
+		"district_name" : "SABARKANTHA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 120,
+		"district_id" : 15,
+		"district_name" : "SURAT",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 121,
+		"district_id" : 16,
+		"district_name" : "SURENDRANAGAR",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 122,
+		"district_id" : 17,
+		"district_name" : "DANG",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 123,
+		"district_id" : 18,
+		"district_name" : "VADODARA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 124,
+		"district_id" : 19,
+		"district_name" : "VALSAD",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 125,
+		"district_id" : 20,
+		"district_name" : "AHMADABAD",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 126,
+		"district_id" : 21,
+		"district_name" : "NARMADA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 127,
+		"district_id" : 22,
+		"district_name" : "PORBANDAR",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 128,
+		"district_id" : 23,
+		"district_name" : "ANAND",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 129,
+		"district_id" : 24,
+		"district_name" : "PATAN",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 130,
+		"district_id" : 25,
+		"district_name" : "DAHOD",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 131,
+		"district_id" : 26,
+		"district_name" : "NAVSARI",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 132,
+		"district_id" : 27,
+		"district_name" : "MAHISAGAR",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 133,
+		"district_id" : 28,
+		"district_name" : "ARAVALLI",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 134,
+		"district_id" : 29,
+		"district_name" : "CHHOTA UDEPUR",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 135,
+		"district_id" : 30,
+		"district_name" : "TAPI",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 136,
+		"district_id" : 31,
+		"district_name" : "DEVBHUMI DWARKA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 137,
+		"district_id" : 32,
+		"district_name" : "Himatnagar",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 138,
+		"district_id" : 33,
+		"district_name" : "GODHRA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 139,
+		"district_id" : 34,
+		"district_name" : "VYARA",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 140,
+		"district_id" : 35,
+		"district_name" : "BHUJ",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 141,
+		"district_id" : 36,
+		"district_name" : "AHWA-DANG",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 142,
+		"district_id" : 37,
+		"district_name" : "Morbi",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 143,
+		"district_id" : 38,
+		"district_name" : "Botad",
+		"state_id" : 4,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 144,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 145,
+		"district_id" : 1,
+		"district_name" : "AMBALA",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 146,
+		"district_id" : 2,
+		"district_name" : "BHIWANI",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 147,
+		"district_id" : 3,
+		"district_name" : "FARIDABAD",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 148,
+		"district_id" : 4,
+		"district_name" : "FATEHABAD",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 149,
+		"district_id" : 5,
+		"district_name" : "GURGAON/ GURUGRAM",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 150,
+		"district_id" : 6,
+		"district_name" : "HISAR",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 151,
+		"district_id" : 7,
+		"district_name" : "JHAJJAR",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 152,
+		"district_id" : 8,
+		"district_name" : "JIND",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 153,
+		"district_id" : 9,
+		"district_name" : "KAITHAL",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 154,
+		"district_id" : 10,
+		"district_name" : "KARNAL",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 155,
+		"district_id" : 11,
+		"district_name" : "KURUKSHETRA",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 156,
+		"district_id" : 12,
+		"district_name" : "MAHENDERGARH (NARNUAL)",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 157,
+		"district_id" : 13,
+		"district_name" : "PANCHKULA",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 158,
+		"district_id" : 14,
+		"district_name" : "PANIPAT",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 159,
+		"district_id" : 15,
+		"district_name" : "REWARI",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 160,
+		"district_id" : 16,
+		"district_name" : "ROHTAK",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 161,
+		"district_id" : 17,
+		"district_name" : "SIRSA",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 162,
+		"district_id" : 18,
+		"district_name" : "SONIPAT",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 163,
+		"district_id" : 19,
+		"district_name" : "YAMUNAGAR",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 164,
+		"district_id" : 20,
+		"district_name" : "CHARKHI",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 165,
+		"district_id" : 21,
+		"district_name" : "NARNAUL",
+		"state_id" : 5,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 166,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 167,
+		"district_id" : 1,
+		"district_name" : "BILASPUR",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 168,
+		"district_id" : 2,
+		"district_name" : "CHAMBA",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 169,
+		"district_id" : 3,
+		"district_name" : "HAMIRPUR",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 170,
+		"district_id" : 4,
+		"district_name" : "KANGRA",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 171,
+		"district_id" : 5,
+		"district_name" : "KINNAUR",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 172,
+		"district_id" : 6,
+		"district_name" : "KULLU",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 173,
+		"district_id" : 7,
+		"district_name" : "LAHAUL AND SPITI",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 174,
+		"district_id" : 8,
+		"district_name" : "MANDI",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 175,
+		"district_id" : 9,
+		"district_name" : "SHIMLA",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 176,
+		"district_id" : 10,
+		"district_name" : "SIRMAUR ( NAHAN)",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 177,
+		"district_id" : 11,
+		"district_name" : "SOLAN",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 178,
+		"district_id" : 12,
+		"district_name" : "UNA",
+		"state_id" : 6,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 179,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 180,
+		"district_id" : 1,
+		"district_name" : "ANANTNAG",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 181,
+		"district_id" : 2,
+		"district_name" : "BADGAM",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 182,
+		"district_id" : 3,
+		"district_name" : "BARAMULA",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 183,
+		"district_id" : 4,
+		"district_name" : "DODA",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 184,
+		"district_id" : 5,
+		"district_name" : "JAMMU",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 185,
+		"district_id" : 6,
+		"district_name" : "KARGIL",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 186,
+		"district_id" : 7,
+		"district_name" : "KATHUA",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 187,
+		"district_id" : 8,
+		"district_name" : "KUPWARA",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 188,
+		"district_id" : 9,
+		"district_name" : "LEH",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 189,
+		"district_id" : 10,
+		"district_name" : "PULWAMA",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 190,
+		"district_id" : 11,
+		"district_name" : "PUNCH",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 191,
+		"district_id" : 12,
+		"district_name" : "RAJAURI",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 192,
+		"district_id" : 13,
+		"district_name" : "SRINAGAR",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 193,
+		"district_id" : 14,
+		"district_name" : "UDHAMPUR",
+		"state_id" : 7,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 194,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 195,
+		"district_id" : 1,
+		"district_name" : "BANGALORE",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 196,
+		"district_id" : 2,
+		"district_name" : "BANGALORE RURAL",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 197,
+		"district_id" : 3,
+		"district_name" : "BELAGAVI (BELGAUM)",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 198,
+		"district_id" : 4,
+		"district_name" : "BELLARY",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 199,
+		"district_id" : 5,
+		"district_name" : "BIDAR",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 200,
+		"district_id" : 6,
+		"district_name" : "BIJAPUR",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 201,
+		"district_id" : 7,
+		"district_name" : "CHIKMAGALUR",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 202,
+		"district_id" : 8,
+		"district_name" : "CHITRADURGA",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 203,
+		"district_id" : 9,
+		"district_name" : "DAKSHINA KANNADA",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 204,
+		"district_id" : 10,
+		"district_name" : "DHARWAD",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 205,
+		"district_id" : 11,
+		"district_name" : "GULBARGA",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 206,
+		"district_id" : 12,
+		"district_name" : "HASSAN",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 207,
+		"district_id" : 13,
+		"district_name" : "KODAGU",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 208,
+		"district_id" : 14,
+		"district_name" : "KOLAR",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 209,
+		"district_id" : 15,
+		"district_name" : "MANDYA",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 210,
+		"district_id" : 16,
+		"district_name" : "MYSORE",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 211,
+		"district_id" : 17,
+		"district_name" : "RAICHUR",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 212,
+		"district_id" : 18,
+		"district_name" : "SHIMOGA",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 213,
+		"district_id" : 19,
+		"district_name" : "TUMKUR",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 214,
+		"district_id" : 20,
+		"district_name" : "UTTARA KANNADA",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 215,
+		"district_id" : 21,
+		"district_name" : "COORG",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 216,
+		"district_id" : 22,
+		"district_name" : "BAGALKOTE",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 217,
+		"district_id" : 23,
+		"district_name" : "DEVANGERE",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 218,
+		"district_id" : 24,
+		"district_name" : "GADAG",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 219,
+		"district_id" : 25,
+		"district_name" : "HAVERI",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 220,
+		"district_id" : 26,
+		"district_name" : "KOPPAL",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 221,
+		"district_id" : 27,
+		"district_name" : "UDUPI",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 222,
+		"district_id" : 28,
+		"district_name" : "CHAMARAJANAGARA",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 223,
+		"district_id" : 29,
+		"district_name" : "CHIKBALLAPUR",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 224,
+		"district_id" : 30,
+		"district_name" : "YADGIRI",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 225,
+		"district_id" : 31,
+		"district_name" : "RAMANAGAR",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 226,
+		"district_id" : 32,
+		"district_name" : "Kalaburgi",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 227,
+		"district_id" : 33,
+		"district_name" : "VIJAYAPUR",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 228,
+		"district_id" : 34,
+		"district_name" : "BANAGALKOT",
+		"state_id" : 8,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 229,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 230,
+		"district_id" : 1,
+		"district_name" : "ALAPPUZHA",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 231,
+		"district_id" : 2,
+		"district_name" : "ERNAKULAM",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 232,
+		"district_id" : 3,
+		"district_name" : "IDUKKI",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 233,
+		"district_id" : 4,
+		"district_name" : "KANNUR",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 234,
+		"district_id" : 5,
+		"district_name" : "KASSARAGODE",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 235,
+		"district_id" : 6,
+		"district_name" : "KOLLAM",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 236,
+		"district_id" : 7,
+		"district_name" : "KOTTAYAM",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 237,
+		"district_id" : 8,
+		"district_name" : "KOZHIKODE",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 238,
+		"district_id" : 9,
+		"district_name" : "MALAPPURAM",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 239,
+		"district_id" : 10,
+		"district_name" : "PALAKKAD",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 240,
+		"district_id" : 11,
+		"district_name" : "PATHANAMTHITTA",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 241,
+		"district_id" : 12,
+		"district_name" : "THIRUVANANTHAPURAM",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 242,
+		"district_id" : 13,
+		"district_name" : "THRISSUR",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 243,
+		"district_id" : 14,
+		"district_name" : "WAYNAD",
+		"state_id" : 9,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 244,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 245,
+		"district_id" : 1,
+		"district_name" : "BALAGHAT",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 246,
+		"district_id" : 2,
+		"district_name" : "BASTAR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 247,
+		"district_id" : 3,
+		"district_name" : "BETUL",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 248,
+		"district_id" : 4,
+		"district_name" : "BHIND",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 249,
+		"district_id" : 5,
+		"district_name" : "BHOPAL",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 250,
+		"district_id" : 6,
+		"district_name" : "BILASPUR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 251,
+		"district_id" : 7,
+		"district_name" : "CHATARPUR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 252,
+		"district_id" : 8,
+		"district_name" : "CHHINDWARA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 253,
+		"district_id" : 9,
+		"district_name" : "DAMOH",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 254,
+		"district_id" : 10,
+		"district_name" : "DATIA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 255,
+		"district_id" : 11,
+		"district_name" : "DEWAS",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 256,
+		"district_id" : 12,
+		"district_name" : "DHAR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 257,
+		"district_id" : 13,
+		"district_name" : "DURG",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 258,
+		"district_id" : 14,
+		"district_name" : "EAST NIMAR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 259,
+		"district_id" : 15,
+		"district_name" : "GUNA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 260,
+		"district_id" : 16,
+		"district_name" : "GWALIOR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 261,
+		"district_id" : 17,
+		"district_name" : "HOSHANGABAD",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 262,
+		"district_id" : 18,
+		"district_name" : "INDORE",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 263,
+		"district_id" : 19,
+		"district_name" : "JABALPUR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 264,
+		"district_id" : 20,
+		"district_name" : "JHABUA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 265,
+		"district_id" : 21,
+		"district_name" : "MANDLA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 266,
+		"district_id" : 22,
+		"district_name" : "MANDSAUR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 267,
+		"district_id" : 23,
+		"district_name" : "MORENA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 268,
+		"district_id" : 24,
+		"district_name" : "NARSINGPUR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 269,
+		"district_id" : 25,
+		"district_name" : "PANNA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 270,
+		"district_id" : 26,
+		"district_name" : "RAIGARH",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 271,
+		"district_id" : 27,
+		"district_name" : "RAIPUR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 272,
+		"district_id" : 28,
+		"district_name" : "RAISEN",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 273,
+		"district_id" : 29,
+		"district_name" : "RAJGARH",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 274,
+		"district_id" : 30,
+		"district_name" : "RAJNANDGAON",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 275,
+		"district_id" : 31,
+		"district_name" : "RATLAM",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 276,
+		"district_id" : 32,
+		"district_name" : "REWA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 277,
+		"district_id" : 33,
+		"district_name" : "SAGAR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 278,
+		"district_id" : 34,
+		"district_name" : "SATNA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 279,
+		"district_id" : 35,
+		"district_name" : "SEHORE",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 280,
+		"district_id" : 36,
+		"district_name" : "SEONI",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 281,
+		"district_id" : 37,
+		"district_name" : "SHAHDOL",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 282,
+		"district_id" : 38,
+		"district_name" : "SHAJAPUR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 283,
+		"district_id" : 39,
+		"district_name" : "SHIVPURI",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 284,
+		"district_id" : 40,
+		"district_name" : "SIDHI",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 285,
+		"district_id" : 41,
+		"district_name" : "SARGUGA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 286,
+		"district_id" : 42,
+		"district_name" : "TIKAMGARH",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 287,
+		"district_id" : 43,
+		"district_name" : "UJJAIN",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 288,
+		"district_id" : 44,
+		"district_name" : "VIDISHA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 289,
+		"district_id" : 45,
+		"district_name" : "WEST NIMAR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 290,
+		"district_id" : 46,
+		"district_name" : "BADWANI",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 291,
+		"district_id" : 47,
+		"district_name" : "SHYOPUR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 292,
+		"district_id" : 48,
+		"district_name" : "DINDORI",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 293,
+		"district_id" : 49,
+		"district_name" : "KORIA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 294,
+		"district_id" : 50,
+		"district_name" : "JASHPUR",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 295,
+		"district_id" : 51,
+		"district_name" : "JANJGIR-CHAMPA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 296,
+		"district_id" : 52,
+		"district_name" : "KORBA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 297,
+		"district_id" : 53,
+		"district_name" : "KANKER",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 298,
+		"district_id" : 54,
+		"district_name" : "DANTEWADA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 299,
+		"district_id" : 55,
+		"district_name" : "KATNIO",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 300,
+		"district_id" : 56,
+		"district_name" : "NEEMUCH",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 301,
+		"district_id" : 57,
+		"district_name" : "UMARIA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 302,
+		"district_id" : 58,
+		"district_name" : "MAHASAMUD",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 303,
+		"district_id" : 59,
+		"district_name" : "DHAMTARI",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 304,
+		"district_id" : 60,
+		"district_name" : "HARDA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 305,
+		"district_id" : 61,
+		"district_name" : "KAVARDHA",
+		"state_id" : 10,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 306,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 307,
+		"district_id" : 1,
+		"district_name" : "AHMEDNAGAR",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 308,
+		"district_id" : 2,
+		"district_name" : "AKOLA",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 309,
+		"district_id" : 3,
+		"district_name" : "AMARAVATI",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 310,
+		"district_id" : 4,
+		"district_name" : "AURANGABAD",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 311,
+		"district_id" : 5,
+		"district_name" : "BHANDARA",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 312,
+		"district_id" : 6,
+		"district_name" : "BEED",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 313,
+		"district_id" : 7,
+		"district_name" : "MUMBAI CITY",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 314,
+		"district_id" : 8,
+		"district_name" : "MUMBAI (SUB)",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 315,
+		"district_id" : 9,
+		"district_name" : "BULDHANA",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 316,
+		"district_id" : 10,
+		"district_name" : "CHANDRAPUR",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 317,
+		"district_id" : 11,
+		"district_name" : "DHULE",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 318,
+		"district_id" : 12,
+		"district_name" : "GADCHIROLI",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 319,
+		"district_id" : 13,
+		"district_name" : "JALGAON",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 320,
+		"district_id" : 14,
+		"district_name" : "JALNA",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 321,
+		"district_id" : 15,
+		"district_name" : "KOLHAPUR",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 322,
+		"district_id" : 16,
+		"district_name" : "LATUR",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 323,
+		"district_id" : 17,
+		"district_name" : "NAGPUR",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 324,
+		"district_id" : 18,
+		"district_name" : "NANDED",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 325,
+		"district_id" : 19,
+		"district_name" : "NASHIK",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 326,
+		"district_id" : 20,
+		"district_name" : "OSMANABAD",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 327,
+		"district_id" : 21,
+		"district_name" : "PARBHANI",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 328,
+		"district_id" : 22,
+		"district_name" : "PUNE",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 329,
+		"district_id" : 23,
+		"district_name" : "RAIGAD",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 330,
+		"district_id" : 24,
+		"district_name" : "RATNAGIRI",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 331,
+		"district_id" : 25,
+		"district_name" : "SANGLI",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 332,
+		"district_id" : 26,
+		"district_name" : "SATARA",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 333,
+		"district_id" : 27,
+		"district_name" : "SINDHUDURG",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 334,
+		"district_id" : 28,
+		"district_name" : "SOLAPUR",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 335,
+		"district_id" : 29,
+		"district_name" : "THANE",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 336,
+		"district_id" : 30,
+		"district_name" : "WARDHA",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 337,
+		"district_id" : 31,
+		"district_name" : "YAVATMAL",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 338,
+		"district_id" : 32,
+		"district_name" : "NANDURBAR",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 339,
+		"district_id" : 33,
+		"district_name" : "WASHIM",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 340,
+		"district_id" : 34,
+		"district_name" : "GONDIA",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 341,
+		"district_id" : 35,
+		"district_name" : "HINGOLI",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 342,
+		"district_id" : 36,
+		"district_name" : "AMBEDKAR NAGAR",
+		"state_id" : 11,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 343,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 344,
+		"district_id" : 1,
+		"district_name" : "BISHNUPUR",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 345,
+		"district_id" : 2,
+		"district_name" : "CHANDEL",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 346,
+		"district_id" : 3,
+		"district_name" : "CHURACHANDPUR",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 347,
+		"district_id" : 4,
+		"district_name" : "IMPHAL EAST",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 348,
+		"district_id" : 5,
+		"district_name" : "SENAPAPTI",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 349,
+		"district_id" : 6,
+		"district_name" : "TAMENGLONG",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 350,
+		"district_id" : 7,
+		"district_name" : "THOUBAL",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 351,
+		"district_id" : 8,
+		"district_name" : "UKHRUL",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 352,
+		"district_id" : 9,
+		"district_name" : "TENGNAUPAL",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 353,
+		"district_id" : 10,
+		"district_name" : "IMPHAL WEST",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 354,
+		"district_id" : 11,
+		"district_name" : "NONEY",
+		"state_id" : 12,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 355,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 13,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 356,
+		"district_id" : 1,
+		"district_name" : "EAST GARO HILLS",
+		"state_id" : 13,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 357,
+		"district_id" : 2,
+		"district_name" : "EAST KHASI HILLS",
+		"state_id" : 13,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 358,
+		"district_id" : 3,
+		"district_name" : "JAINTIA HILLS",
+		"state_id" : 13,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 359,
+		"district_id" : 4,
+		"district_name" : "WEST GARO HILLS",
+		"state_id" : 13,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 360,
+		"district_id" : 5,
+		"district_name" : "WEST KHASI HILLS",
+		"state_id" : 13,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 361,
+		"district_id" : 6,
+		"district_name" : "RI-BHOI",
+		"state_id" : 13,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 362,
+		"district_id" : 7,
+		"district_name" : "SOUTH GARO HILLS",
+		"state_id" : 13,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 363,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 364,
+		"district_id" : 1,
+		"district_name" : "KOHIMA",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 365,
+		"district_id" : 2,
+		"district_name" : "MOKOKCHUNG",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 366,
+		"district_id" : 3,
+		"district_name" : "MON",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 367,
+		"district_id" : 4,
+		"district_name" : "PHEK",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 368,
+		"district_id" : 5,
+		"district_name" : "TUENSANG",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 369,
+		"district_id" : 6,
+		"district_name" : "WOKHA",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 370,
+		"district_id" : 7,
+		"district_name" : "ZUNHEBOTO",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 371,
+		"district_id" : 8,
+		"district_name" : "DIMAPUR",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 372,
+		"district_id" : 9,
+		"district_name" : "LONGLENG",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 373,
+		"district_id" : 10,
+		"district_name" : "PEREN",
+		"state_id" : 14,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 374,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 375,
+		"district_id" : 1,
+		"district_name" : "ANGUL",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 376,
+		"district_id" : 2,
+		"district_name" : "BALASORE",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 377,
+		"district_id" : 3,
+		"district_name" : "BOLANGIR",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 378,
+		"district_id" : 4,
+		"district_name" : "BOUDH",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 379,
+		"district_id" : 5,
+		"district_name" : "BHADRAK",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 380,
+		"district_id" : 6,
+		"district_name" : "BARGARH",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 381,
+		"district_id" : 7,
+		"district_name" : "CUTTACK",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 382,
+		"district_id" : 8,
+		"district_name" : "DEOGARH",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 383,
+		"district_id" : 9,
+		"district_name" : "GANJAM",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 384,
+		"district_id" : 10,
+		"district_name" : "DHENKANAL",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 385,
+		"district_id" : 11,
+		"district_name" : "GAJPATI",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 386,
+		"district_id" : 12,
+		"district_name" : "JAGATSINGHPUR",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 387,
+		"district_id" : 13,
+		"district_name" : "JAJPUR",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 388,
+		"district_id" : 14,
+		"district_name" : "JHARSUGUDA",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 389,
+		"district_id" : 15,
+		"district_name" : "KEONJHAR",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 390,
+		"district_id" : 16,
+		"district_name" : "KALAHANDI",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 391,
+		"district_id" : 17,
+		"district_name" : "KORAPUT",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 392,
+		"district_id" : 18,
+		"district_name" : "KENDRAPARA",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 393,
+		"district_id" : 19,
+		"district_name" : "KHURDA",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 394,
+		"district_id" : 21,
+		"district_name" : "MALKANGIRI",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 395,
+		"district_id" : 22,
+		"district_name" : "NAWARANGPUR",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 396,
+		"district_id" : 23,
+		"district_name" : "NAYAGARH",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 397,
+		"district_id" : 24,
+		"district_name" : "NAWAPARA",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 398,
+		"district_id" : 25,
+		"district_name" : "PURI",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 399,
+		"district_id" : 26,
+		"district_name" : "KANDHAMAL",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 400,
+		"district_id" : 27,
+		"district_name" : "RAYAGADA",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 401,
+		"district_id" : 28,
+		"district_name" : "SAMBALPUR",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 402,
+		"district_id" : 29,
+		"district_name" : "SUNDARGARH",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 403,
+		"district_id" : 30,
+		"district_name" : "SONEPUR",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 404,
+		"district_id" : 31,
+		"district_name" : "MAYURBHANJ",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 405,
+		"district_id" : 32,
+		"district_name" : "PHULBANI",
+		"state_id" : 15,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 406,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 407,
+		"district_id" : 1,
+		"district_name" : "AMRITSAR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 408,
+		"district_id" : 2,
+		"district_name" : "BATHINDA",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 409,
+		"district_id" : 3,
+		"district_name" : "FARIDKOT",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 410,
+		"district_id" : 4,
+		"district_name" : "FATEHGARH SAHIB",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 411,
+		"district_id" : 5,
+		"district_name" : "FIROZEPUR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 412,
+		"district_id" : 6,
+		"district_name" : "GURDASPUR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 413,
+		"district_id" : 7,
+		"district_name" : "HOSHIARPUR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 414,
+		"district_id" : 8,
+		"district_name" : "JALANDHAR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 415,
+		"district_id" : 9,
+		"district_name" : "KAPURTHALA",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 416,
+		"district_id" : 10,
+		"district_name" : "LUDHIANA",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 417,
+		"district_id" : 11,
+		"district_name" : "MANSA",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 418,
+		"district_id" : 12,
+		"district_name" : "MOGA",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 419,
+		"district_id" : 13,
+		"district_name" : "MUKTSAR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 420,
+		"district_id" : 14,
+		"district_name" : "NAWAN SHEHAR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 421,
+		"district_id" : 15,
+		"district_name" : "PATIALA",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 422,
+		"district_id" : 16,
+		"district_name" : "ROOP NAGAR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 423,
+		"district_id" : 17,
+		"district_name" : "SANGRUR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 424,
+		"district_id" : 18,
+		"district_name" : "SAHIBZADA AJIT SINGH(SAS) NAGAR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 425,
+		"district_id" : 19,
+		"district_name" : "PATHANKOT",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 426,
+		"district_id" : 20,
+		"district_name" : "SAHEED BHAGAT SINGH NAGAR",
+		"state_id" : 16,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 427,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 428,
+		"district_id" : 1,
+		"district_name" : "AJMER",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 429,
+		"district_id" : 2,
+		"district_name" : "ALWAR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 430,
+		"district_id" : 3,
+		"district_name" : "BANSWARA",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 431,
+		"district_id" : 4,
+		"district_name" : "BARMER",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 432,
+		"district_id" : 5,
+		"district_name" : "BHARATPUR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 433,
+		"district_id" : 6,
+		"district_name" : "BHILWARA",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 434,
+		"district_id" : 7,
+		"district_name" : "BIKANER",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 435,
+		"district_id" : 8,
+		"district_name" : "BUNDI",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 436,
+		"district_id" : 9,
+		"district_name" : "CHITTORGARH",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 437,
+		"district_id" : 10,
+		"district_name" : "CHURU",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 438,
+		"district_id" : 11,
+		"district_name" : "DHOLPUR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 439,
+		"district_id" : 12,
+		"district_name" : "DUNGARPUR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 440,
+		"district_id" : 13,
+		"district_name" : "GANGANAGAR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 441,
+		"district_id" : 14,
+		"district_name" : "JAIPUR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 442,
+		"district_id" : 15,
+		"district_name" : "JAISALMER",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 443,
+		"district_id" : 16,
+		"district_name" : "JALORE",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 444,
+		"district_id" : 17,
+		"district_name" : "JHALAWAR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 445,
+		"district_id" : 18,
+		"district_name" : "JHUNJHUNU",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 446,
+		"district_id" : 19,
+		"district_name" : "JODHPUR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 447,
+		"district_id" : 20,
+		"district_name" : "KOTA",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 448,
+		"district_id" : 21,
+		"district_name" : "NAGAUR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 449,
+		"district_id" : 22,
+		"district_name" : "PALI",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 450,
+		"district_id" : 23,
+		"district_name" : "SAWAI MADHOPUR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 451,
+		"district_id" : 24,
+		"district_name" : "SIKAR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 452,
+		"district_id" : 25,
+		"district_name" : "SIROHI",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 453,
+		"district_id" : 26,
+		"district_name" : "TONK",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 454,
+		"district_id" : 27,
+		"district_name" : "UDAIPUR",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 455,
+		"district_id" : 28,
+		"district_name" : "DAUSA",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 456,
+		"district_id" : 29,
+		"district_name" : "BARAN",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 457,
+		"district_id" : 30,
+		"district_name" : "RAJSAMAND",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 458,
+		"district_id" : 31,
+		"district_name" : "HANUMANGARH",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 459,
+		"district_id" : 32,
+		"district_name" : "KAROLI",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 460,
+		"district_id" : 33,
+		"district_name" : "PRATAPGARH",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 461,
+		"district_id" : 34,
+		"district_name" : "Sri Ganganagar",
+		"state_id" : 17,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 462,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 18,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 463,
+		"district_id" : 1,
+		"district_name" : "EAST",
+		"state_id" : 18,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 464,
+		"district_id" : 2,
+		"district_name" : "NORTH",
+		"state_id" : 18,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 465,
+		"district_id" : 3,
+		"district_name" : "SOUTH",
+		"state_id" : 18,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 466,
+		"district_id" : 4,
+		"district_name" : "WEST",
+		"state_id" : 18,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 467,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 468,
+		"district_id" : 1,
+		"district_name" : "CHENNAI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 469,
+		"district_id" : 2,
+		"district_name" : "KANCHEEPURAM (CHENGALPATTU)",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 470,
+		"district_id" : 3,
+		"district_name" : "THIRUVALLUR",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 471,
+		"district_id" : 4,
+		"district_name" : "VELLORE",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 472,
+		"district_id" : 5,
+		"district_name" : "THIRUVANNAMALAI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 473,
+		"district_id" : 6,
+		"district_name" : "CUDDALORE",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 474,
+		"district_id" : 7,
+		"district_name" : "VILLUPURAM",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 475,
+		"district_id" : 8,
+		"district_name" : "SALEM",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 476,
+		"district_id" : 9,
+		"district_name" : "NAMAKKAL",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 477,
+		"district_id" : 10,
+		"district_name" : "DHARMAPURI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 478,
+		"district_id" : 11,
+		"district_name" : "PUDUKOTTAI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 479,
+		"district_id" : 12,
+		"district_name" : "ERODE",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 480,
+		"district_id" : 13,
+		"district_name" : "NILGIRIS",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 481,
+		"district_id" : 14,
+		"district_name" : "COIMBATORE",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 482,
+		"district_id" : 15,
+		"district_name" : "TRICHIRAPALLI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 483,
+		"district_id" : 16,
+		"district_name" : "KARUR",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 484,
+		"district_id" : 17,
+		"district_name" : "PERAMBALUR",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 485,
+		"district_id" : 18,
+		"district_name" : "THANJAVUR",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 486,
+		"district_id" : 19,
+		"district_name" : "NAGAPATTINAM",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 487,
+		"district_id" : 20,
+		"district_name" : "THIRUVARUR",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 488,
+		"district_id" : 21,
+		"district_name" : "MADURAI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 489,
+		"district_id" : 22,
+		"district_name" : "THENI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 490,
+		"district_id" : 23,
+		"district_name" : "DINDUGUL",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 491,
+		"district_id" : 24,
+		"district_name" : "RAMANATHAPURAM",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 492,
+		"district_id" : 25,
+		"district_name" : "SIVAGANGAI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 493,
+		"district_id" : 26,
+		"district_name" : "VIRUDHUNAGAR",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 494,
+		"district_id" : 27,
+		"district_name" : "TIRUNELVELI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 495,
+		"district_id" : 28,
+		"district_name" : "TUTICORIN",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 496,
+		"district_id" : 29,
+		"district_name" : "KANYAKUMARI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 497,
+		"district_id" : 30,
+		"district_name" : "TOOTHUKUDI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 498,
+		"district_id" : 31,
+		"district_name" : "TIRUCHIRAPPALLI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 499,
+		"district_id" : 32,
+		"district_name" : "KRISHNAGIRI",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 500,
+		"district_id" : 33,
+		"district_name" : "TIRUPPUR",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 501,
+		"district_id" : 34,
+		"district_name" : "ARIYALUR",
+		"state_id" : 19,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 502,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 20,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 503,
+		"district_id" : 1,
+		"district_name" : "NORTH TRIPURA",
+		"state_id" : 20,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 504,
+		"district_id" : 2,
+		"district_name" : "SOUTH TRIPURA",
+		"state_id" : 20,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 505,
+		"district_id" : 3,
+		"district_name" : "WEST TRIPURA",
+		"state_id" : 20,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 506,
+		"district_id" : 4,
+		"district_name" : "DHALAI",
+		"state_id" : 20,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 507,
+		"district_id" : 5,
+		"district_name" : "GOMATI",
+		"state_id" : 20,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 508,
+		"district_id" : 6,
+		"district_name" : "UNAKOTI",
+		"state_id" : 20,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 509,
+		"district_id" : 7,
+		"district_name" : "KHOWAI",
+		"state_id" : 20,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 510,
+		"district_id" : 8,
+		"district_name" : "SIPAHIJALA",
+		"state_id" : 20,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 511,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 512,
+		"district_id" : 1,
+		"district_name" : "AGRA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 513,
+		"district_id" : 2,
+		"district_name" : "ALIGARH",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 514,
+		"district_id" : 3,
+		"district_name" : "ETAH",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 515,
+		"district_id" : 4,
+		"district_name" : "FIROZABAD",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 516,
+		"district_id" : 5,
+		"district_name" : "MAINPURI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 517,
+		"district_id" : 6,
+		"district_name" : "MATHURA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 518,
+		"district_id" : 7,
+		"district_name" : "MAHAMAYA NAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 519,
+		"district_id" : 8,
+		"district_name" : "AZAMAGARH",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 520,
+		"district_id" : 9,
+		"district_name" : "BALLIA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 521,
+		"district_id" : 10,
+		"district_name" : "MAU",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 522,
+		"district_id" : 11,
+		"district_name" : "KAUSHAMBI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 523,
+		"district_id" : 12,
+		"district_name" : "FATEHPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 524,
+		"district_id" : 13,
+		"district_name" : "PRATAPGARH",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 525,
+		"district_id" : 14,
+		"district_name" : "ALLAHABAD",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 526,
+		"district_id" : 16,
+		"district_name" : "BUDAUN",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 527,
+		"district_id" : 17,
+		"district_name" : "BAREILLY",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 528,
+		"district_id" : 18,
+		"district_name" : "PILBHIT",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 529,
+		"district_id" : 19,
+		"district_name" : "SAHJAHANPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 530,
+		"district_id" : 20,
+		"district_name" : "FAIZABAD",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 531,
+		"district_id" : 21,
+		"district_name" : "AMBEDKARNAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 532,
+		"district_id" : 22,
+		"district_name" : "BAHRAICH",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 533,
+		"district_id" : 23,
+		"district_name" : "BARABANKI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 534,
+		"district_id" : 24,
+		"district_name" : "GONDA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 535,
+		"district_id" : 25,
+		"district_name" : "SULTANPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 536,
+		"district_id" : 26,
+		"district_name" : "PAURI GARHWAL",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 537,
+		"district_id" : 27,
+		"district_name" : "CHAMOLI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 538,
+		"district_id" : 28,
+		"district_name" : "DEHRADUN",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 539,
+		"district_id" : 29,
+		"district_name" : "TEHRI GARHWAL",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 540,
+		"district_id" : 30,
+		"district_name" : "UTTARKASHI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 541,
+		"district_id" : 31,
+		"district_name" : "GOROKHPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 542,
+		"district_id" : 33,
+		"district_name" : "KUSHINAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 543,
+		"district_id" : 34,
+		"district_name" : "MAHARAJGANJ",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 544,
+		"district_id" : 35,
+		"district_name" : "BANDA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 545,
+		"district_id" : 36,
+		"district_name" : "HAMIRPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 546,
+		"district_id" : 37,
+		"district_name" : "JALAUN",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 547,
+		"district_id" : 38,
+		"district_name" : "LALITPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 548,
+		"district_id" : 39,
+		"district_name" : "MAHOBA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 549,
+		"district_id" : 40,
+		"district_name" : "JHANSI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 550,
+		"district_id" : 41,
+		"district_name" : "KANPUR(NAGAR)",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 551,
+		"district_id" : 42,
+		"district_name" : "KANPUR DEHAT(AKBARPUR)",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 552,
+		"district_id" : 43,
+		"district_name" : "FARRUKHABAD",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 553,
+		"district_id" : 44,
+		"district_name" : "ETAWAH",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 554,
+		"district_id" : 45,
+		"district_name" : "LUCKNOW",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 555,
+		"district_id" : 46,
+		"district_name" : "HARDOI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 556,
+		"district_id" : 47,
+		"district_name" : "LAKHIMPUR KHERI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 557,
+		"district_id" : 48,
+		"district_name" : "RAI BAREILI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 558,
+		"district_id" : 49,
+		"district_name" : "SITAPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 559,
+		"district_id" : 50,
+		"district_name" : "UNNAO",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 560,
+		"district_id" : 51,
+		"district_name" : "HATHRAS",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 561,
+		"district_id" : 52,
+		"district_name" : "SHAMLI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 562,
+		"district_id" : 53,
+		"district_name" : "ALMORA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 563,
+		"district_id" : 54,
+		"district_name" : "PITHORAGARH",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 564,
+		"district_id" : 55,
+		"district_name" : "BULANDSHAHAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 565,
+		"district_id" : 56,
+		"district_name" : "MEERUT",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 566,
+		"district_id" : 57,
+		"district_name" : "GHAZIABAD",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 567,
+		"district_id" : 58,
+		"district_name" : "GAUTAM BUDDHA NAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 568,
+		"district_id" : 59,
+		"district_name" : "MORADABAD",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 569,
+		"district_id" : 60,
+		"district_name" : "BIZNOR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 570,
+		"district_id" : 61,
+		"district_name" : "RAMPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 571,
+		"district_id" : 62,
+		"district_name" : "JYOTIBA RAO PHULE NAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 572,
+		"district_id" : 63,
+		"district_name" : "SAHARANPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 573,
+		"district_id" : 64,
+		"district_name" : "HARDWAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 574,
+		"district_id" : 65,
+		"district_name" : "MUZAFFARNAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 575,
+		"district_id" : 66,
+		"district_name" : "VARANASI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 576,
+		"district_id" : 67,
+		"district_name" : "JAUNPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 577,
+		"district_id" : 68,
+		"district_name" : "CHAUNDAULI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 578,
+		"district_id" : 69,
+		"district_name" : "GHAZIPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 579,
+		"district_id" : 70,
+		"district_name" : "BHADOHI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 580,
+		"district_id" : 71,
+		"district_name" : "MIRZAPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 581,
+		"district_id" : 72,
+		"district_name" : "SONBHADRA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 582,
+		"district_id" : 73,
+		"district_name" : "BASTI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 583,
+		"district_id" : 74,
+		"district_name" : "BALRAMPUR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 584,
+		"district_id" : 75,
+		"district_name" : "SHRAVASTI",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 585,
+		"district_id" : 76,
+		"district_name" : "SIDDHARTH NAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 586,
+		"district_id" : 77,
+		"district_name" : "SAMBHAL",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 587,
+		"district_id" : 78,
+		"district_name" : "PANCHSHEEL NAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 588,
+		"district_id" : 79,
+		"district_name" : "RUDRA PRAYAG",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 589,
+		"district_id" : 80,
+		"district_name" : "BAGPAT",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 590,
+		"district_id" : 81,
+		"district_name" : "KANNAUJ",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 591,
+		"district_id" : 82,
+		"district_name" : "AURAIYA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 592,
+		"district_id" : 83,
+		"district_name" : "SANT KABIR NAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 593,
+		"district_id" : 84,
+		"district_name" : "CHATRAPATI SHAHUJI MAHARAJ NAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 594,
+		"district_id" : 85,
+		"district_name" : "CHITRAKOOT",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 595,
+		"district_id" : 86,
+		"district_name" : "BAGHPAT",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 596,
+		"district_id" : 87,
+		"district_name" : "DEORIA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 597,
+		"district_id" : 88,
+		"district_name" : "ST. RAVI DAS NAGAR",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 598,
+		"district_id" : 89,
+		"district_name" : "ORRAIYA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 599,
+		"district_id" : 90,
+		"district_name" : "KASGANJ",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 600,
+		"district_id" : 91,
+		"district_name" : "NOIDA",
+		"state_id" : 21,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 601,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 602,
+		"district_id" : 1,
+		"district_name" : "BANKURA",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 603,
+		"district_id" : 2,
+		"district_name" : "BARDHAMAN",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 604,
+		"district_id" : 3,
+		"district_name" : "BIRBHUM",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 605,
+		"district_id" : 4,
+		"district_name" : "KOLKATA",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 606,
+		"district_id" : 5,
+		"district_name" : "DARJEELING",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 607,
+		"district_id" : 6,
+		"district_name" : "HOWRAH",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 608,
+		"district_id" : 7,
+		"district_name" : "HOOGHLY",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 609,
+		"district_id" : 8,
+		"district_name" : "JALPAIGURI",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 610,
+		"district_id" : 9,
+		"district_name" : "COOCHBEHAR",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 611,
+		"district_id" : 10,
+		"district_name" : "MALDA",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 612,
+		"district_id" : 11,
+		"district_name" : "MIDNAPORE",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 613,
+		"district_id" : 12,
+		"district_name" : "MURSHIDABAD",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 614,
+		"district_id" : 13,
+		"district_name" : "NADIA",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 615,
+		"district_id" : 14,
+		"district_name" : "NORTH 24 PARGANAS",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 616,
+		"district_id" : 15,
+		"district_name" : "SOUTH 24 PARGANAS",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 617,
+		"district_id" : 16,
+		"district_name" : "PURULIA",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 618,
+		"district_id" : 17,
+		"district_name" : "UTTAR DINAJPUR",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 619,
+		"district_id" : 18,
+		"district_name" : "DAKSHIN DINAJPUR",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 620,
+		"district_id" : 19,
+		"district_name" : "EAST MIDNAPORE",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 621,
+		"district_id" : 20,
+		"district_name" : "WEST MIDNAPORE",
+		"state_id" : 22,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 622,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 23,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 623,
+		"district_id" : 1,
+		"district_name" : "ANDAMAN",
+		"state_id" : 23,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 624,
+		"district_id" : 2,
+		"district_name" : "NICOBAR",
+		"state_id" : 23,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 625,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 626,
+		"district_id" : 1,
+		"district_name" : "TAWANG",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 627,
+		"district_id" : 2,
+		"district_name" : "WEST KAMANG",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 628,
+		"district_id" : 3,
+		"district_name" : "EAST KAMANG",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 629,
+		"district_id" : 4,
+		"district_name" : "PAPUM PARE",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 630,
+		"district_id" : 5,
+		"district_name" : "LOWER SUBANSIRI",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 631,
+		"district_id" : 6,
+		"district_name" : "UPPER SUBANSIRI",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 632,
+		"district_id" : 7,
+		"district_name" : "WEST SIANG",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 633,
+		"district_id" : 8,
+		"district_name" : "EAST SIANG",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 634,
+		"district_id" : 9,
+		"district_name" : "UPPER SIANG",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 635,
+		"district_id" : 10,
+		"district_name" : "DIBANG VALLEY",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 636,
+		"district_id" : 11,
+		"district_name" : "LOHIT",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 637,
+		"district_id" : 12,
+		"district_name" : "CHANGLANG",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 638,
+		"district_id" : 13,
+		"district_name" : "TIRAP",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 639,
+		"district_id" : 14,
+		"district_name" : "KURUNG-KUMEY",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 640,
+		"district_id" : 15,
+		"district_name" : "LONGDING",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 641,
+		"district_id" : 16,
+		"district_name" : "NAMSAI",
+		"state_id" : 24,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 642,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 25,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 643,
+		"district_id" : 1,
+		"district_name" : "CHANDIGARH",
+		"state_id" : 25,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 644,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 26,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 645,
+		"district_id" : 1,
+		"district_name" : "DADRA & NAGAR HAVELI",
+		"state_id" : 26,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 646,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 27,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 647,
+		"district_id" : 1,
+		"district_name" : "DELHI",
+		"state_id" : 27,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 648,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 28,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 649,
+		"district_id" : 1,
+		"district_name" : "NORTH GOA",
+		"state_id" : 28,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 650,
+		"district_id" : 2,
+		"district_name" : "SOUTH GOA",
+		"state_id" : 28,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 651,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 29,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 652,
+		"district_id" : 1,
+		"district_name" : "LAKSHADWEEP",
+		"state_id" : 29,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 653,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 654,
+		"district_id" : 1,
+		"district_name" : "AIZAWL",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 655,
+		"district_id" : 2,
+		"district_name" : "LUNGLEI",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 656,
+		"district_id" : 3,
+		"district_name" : "CHHIMTUIPUI",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 657,
+		"district_id" : 4,
+		"district_name" : "LAWNGTLAI",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 658,
+		"district_id" : 5,
+		"district_name" : "CHAMPHAI",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 659,
+		"district_id" : 6,
+		"district_name" : "KOLASIB",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 660,
+		"district_id" : 7,
+		"district_name" : "MAMIT",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 661,
+		"district_id" : 8,
+		"district_name" : "SERCHHIP",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 662,
+		"district_id" : 9,
+		"district_name" : "Siaha",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 663,
+		"district_id" : 10,
+		"district_name" : "SAITUAL",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 664,
+		"district_id" : 11,
+		"district_name" : "KHAWZAWL",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 665,
+		"district_id" : 12,
+		"district_name" : "HNAHTHIAL",
+		"state_id" : 30,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 666,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 31,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 667,
+		"district_id" : 1,
+		"district_name" : "PONDICHERRY",
+		"state_id" : 31,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 668,
+		"district_id" : 2,
+		"district_name" : "KARAIKAL",
+		"state_id" : 31,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 669,
+		"district_id" : 3,
+		"district_name" : "MAHE",
+		"state_id" : 31,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 670,
+		"district_id" : 4,
+		"district_name" : "YANAM",
+		"state_id" : 31,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 671,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 672,
+		"district_id" : 1,
+		"district_name" : "RANCHI",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 673,
+		"district_id" : 2,
+		"district_name" : "LOHARDAGGA",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 674,
+		"district_id" : 3,
+		"district_name" : "GUMLA",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 675,
+		"district_id" : 4,
+		"district_name" : "SIMDEGA",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 676,
+		"district_id" : 5,
+		"district_name" : "PALAMU",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 677,
+		"district_id" : 6,
+		"district_name" : "LATEHAR",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 678,
+		"district_id" : 7,
+		"district_name" : "GARHWA",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 679,
+		"district_id" : 8,
+		"district_name" : "WEST SINGHBHUM",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 680,
+		"district_id" : 9,
+		"district_name" : "SARAIKELA KHARSAWAN",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 681,
+		"district_id" : 10,
+		"district_name" : "EAST SINGHSHUM",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 682,
+		"district_id" : 11,
+		"district_name" : "DUMKA",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 683,
+		"district_id" : 12,
+		"district_name" : "JAMTARA",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 684,
+		"district_id" : 13,
+		"district_name" : "SAHEBGANJ",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 685,
+		"district_id" : 14,
+		"district_name" : "PAKUR",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 686,
+		"district_id" : 15,
+		"district_name" : "GODDA",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 687,
+		"district_id" : 16,
+		"district_name" : "HAZARIBAGH",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 688,
+		"district_id" : 17,
+		"district_name" : "CHATRA",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 689,
+		"district_id" : 18,
+		"district_name" : "KODERMA",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 690,
+		"district_id" : 19,
+		"district_name" : "GIRIDIH",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 691,
+		"district_id" : 20,
+		"district_name" : "DHANBAD",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 692,
+		"district_id" : 21,
+		"district_name" : "BOKARO",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 693,
+		"district_id" : 22,
+		"district_name" : "DEOGHAR",
+		"state_id" : 32,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 694,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 695,
+		"district_id" : 1,
+		"district_name" : "BASTAR",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 696,
+		"district_id" : 2,
+		"district_name" : "BILASPUR",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 697,
+		"district_id" : 3,
+		"district_name" : "DANTEWADA",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 698,
+		"district_id" : 4,
+		"district_name" : "DURG",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 699,
+		"district_id" : 5,
+		"district_name" : "KORIYA",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 700,
+		"district_id" : 6,
+		"district_name" : "RAIGARH",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 701,
+		"district_id" : 7,
+		"district_name" : "RAIPUR",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 702,
+		"district_id" : 8,
+		"district_name" : "RAJNANDGAON",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 703,
+		"district_id" : 9,
+		"district_name" : "SURGUJA",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 704,
+		"district_id" : 10,
+		"district_name" : "JASHPUR",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 705,
+		"district_id" : 11,
+		"district_name" : "JANJGIR-CHAMPA",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 706,
+		"district_id" : 12,
+		"district_name" : "KORBA",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 707,
+		"district_id" : 13,
+		"district_name" : "KANKER",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 708,
+		"district_id" : 14,
+		"district_name" : "MAHASAMUND",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 709,
+		"district_id" : 15,
+		"district_name" : "DHAMATARI",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 710,
+		"district_id" : 16,
+		"district_name" : "KABIRDHAM (KAWARDHA)",
+		"state_id" : 33,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 711,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 712,
+		"district_id" : 1,
+		"district_name" : "DEHRADUN",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 713,
+		"district_id" : 2,
+		"district_name" : "HARIDWAR",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 714,
+		"district_id" : 3,
+		"district_name" : "TIHARI",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 715,
+		"district_id" : 4,
+		"district_name" : "UTTAR KASHI",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 716,
+		"district_id" : 5,
+		"district_name" : "RUDRAPRAYAG",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 717,
+		"district_id" : 6,
+		"district_name" : "CHAMOLI",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 718,
+		"district_id" : 7,
+		"district_name" : "POURI",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 719,
+		"district_id" : 8,
+		"district_name" : "NAINITAL",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 720,
+		"district_id" : 9,
+		"district_name" : "ALMORA",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 721,
+		"district_id" : 10,
+		"district_name" : "PITHORAGARH",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 722,
+		"district_id" : 11,
+		"district_name" : "CHAMPAWAT",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 723,
+		"district_id" : 12,
+		"district_name" : "BAGERSHWAR",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 724,
+		"district_id" : 13,
+		"district_name" : "UDHAM SINGH NAGAR",
+		"state_id" : 34,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 725,
+		"district_id" : 1,
+		"district_name" : "Diu",
+		"state_id" : 35,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 726,
+		"district_id" : 0,
+		"district_name" : "NOT AVAILABLE",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 727,
+		"district_id" : 1,
+		"district_name" : "HYDERABAD",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 728,
+		"district_id" : 2,
+		"district_name" : "ADILABAD",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 729,
+		"district_id" : 3,
+		"district_name" : "KARIMNAGAR",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 730,
+		"district_id" : 4,
+		"district_name" : "KHAMMAM",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 731,
+		"district_id" : 5,
+		"district_name" : "MAHABUBNAGAR",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 732,
+		"district_id" : 6,
+		"district_name" : "MEDAK",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 733,
+		"district_id" : 7,
+		"district_name" : "NALGONDA",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 734,
+		"district_id" : 8,
+		"district_name" : "NIZAMABAD",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 735,
+		"district_id" : 9,
+		"district_name" : "RANGAREDDY",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 736,
+		"district_id" : 10,
+		"district_name" : "WARANGAL (URBAN)",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 737,
+		"district_id" : 11,
+		"district_name" : "JANGAON",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 738,
+		"district_id" : 12,
+		"district_name" : "MAHABUBABAD",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 739,
+		"district_id" : 13,
+		"district_name" : "JAYASHANKAR BHUPALPALLY",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 740,
+		"district_id" : 14,
+		"district_name" : "SANGAREDDY",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 741,
+		"district_id" : 15,
+		"district_name" : "MEDCHAL",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 742,
+		"district_id" : 16,
+		"district_name" : "BHADRADRI KOTHAGUDEM",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 743,
+		"district_id" : 17,
+		"district_name" : "JAGTIAL",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 744,
+		"district_id" : 18,
+		"district_name" : "JOGULAMBA GADWAL",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 745,
+		"district_id" : 19,
+		"district_name" : "KAMAREDDY",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 746,
+		"district_id" : 20,
+		"district_name" : "KUMURAM BHEEM",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 747,
+		"district_id" : 21,
+		"district_name" : "MANCHERIAL",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 748,
+		"district_id" : 22,
+		"district_name" : "NAGARKURNOOL",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 749,
+		"district_id" : 23,
+		"district_name" : "NIRMAL",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 750,
+		"district_id" : 24,
+		"district_name" : "PEDDAPALLI",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 751,
+		"district_id" : 25,
+		"district_name" : "RAJANNA SIRCILLA",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 752,
+		"district_id" : 26,
+		"district_name" : "SIDDIPET",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 753,
+		"district_id" : 27,
+		"district_name" : "SURYAPET",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 754,
+		"district_id" : 28,
+		"district_name" : "VIKARABAD",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 755,
+		"district_id" : 29,
+		"district_name" : "WANAPARTHY",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 756,
+		"district_id" : 30,
+		"district_name" : "WARANGAL (RURAL)",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 757,
+		"district_id" : 31,
+		"district_name" : "YADADRI BHUVANAGIRI",
+		"state_id" : 36,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	},
+	{
+		"serial_number" : 758,
+		"district_id" : 1,
+		"district_name" : "DELHI",
+		"state_id" : 99,
+		"district_status" : "Y",
+		"update_date" : "2022-05-06 15:27:38",
+		"updated_by" : 1
+	}
+]

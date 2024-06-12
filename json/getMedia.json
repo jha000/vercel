@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "type": "Series",
+        "title": "Murder in the lift",
+        "description": "",
+        "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+        "status": "Published",
+        "language": {
+            "id": 2,
+            "title": "English",
+            "status": true,
+            "coverImageUrl": null
+        },
+        "channel": {
+            "id": 1,
+            "channelTitle": "Nello",
+            "channelDescription": "",
+            "coverImage": null,
+            "thumbnail": null,
+            "active": false
+        },
+        "preference": {
+            "id": 1,
+            "title": "Thriller",
+            "coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+            "displayHome": true,
+            "homeSortOrder": 5,
+            "navigationSortOrder": 5,
+            "status": true
+        },
+        "artist": {
+            "id": 1,
+            "artistName": "Nodenote Originals",
+            "image": "https://s3.ap-south-1.amazonaws.com/audiomonkhub/artist/icon-512x512px.png"
+        },
+        "premium": true,
+        "duration": "576",
+        "like": false,
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+    },
+    {
+        "id": 2,
+        "type": "Series",
+        "title": "Real Paranormal",
+        "description": "",
+        "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Freal%20paranormal.jpg?alt=media&token=abecd9d7-500a-4589-973a-0c73d3943a4d",
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Freal%20paranormal.jpg?alt=media&token=abecd9d7-500a-4589-973a-0c73d3943a4d",
+        "status": "Published",
+        "language": {
+            "id": 2,
+            "title": "English",
+            "status": true,
+            "coverImageUrl": null
+        },
+        "channel": {
+            "id": 1,
+            "channelTitle": "Nello",
+            "channelDescription": "",
+            "coverImage": null,
+            "thumbnail": null,
+            "active": false
+        },
+        "preference": {
+            "id": 1,
+            "title": "Horrer",
+            "coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Freal%20paranormal.jpg?alt=media&token=abecd9d7-500a-4589-973a-0c73d3943a4d",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Freal%20paranormal.jpg?alt=media&token=abecd9d7-500a-4589-973a-0c73d3943a4d",
+            "displayHome": true,
+            "homeSortOrder": 5,
+            "navigationSortOrder": 5,
+            "status": true
+        },
+        "artist": {
+            "id": 1,
+            "artistName": "Nodenote Originals",
+            "image": "https://s3.ap-south-1.amazonaws.com/audiomonkhub/artist/icon-512x512px.png"
+        },
+        "premium": true,
+        "duration": "576",
+        "like": false,
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+    },
+    {
+        "id": 3,
+        "type": "Series",
+        "title": "The Copy Killer",
+        "description": "",
+        "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fcopy%20killer.jpg?alt=media&token=6d87b488-aa27-4d25-ab69-d91c181ab771",
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fcopy%20killer.jpg?alt=media&token=6d87b488-aa27-4d25-ab69-d91c181ab771",
+        "status": "Published",
+        "language": {
+            "id": 2,
+            "title": "English",
+            "status": true,
+            "coverImageUrl": null
+        },
+        "channel": {
+            "id": 1,
+            "channelTitle": "Nello",
+            "channelDescription": "",
+            "coverImage": null,
+            "thumbnail": null,
+            "active": false
+        },
+        "preference": {
+            "id": 1,
+            "title": "Thriller",
+            "coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fcopy%20killer.jpg?alt=media&token=6d87b488-aa27-4d25-ab69-d91c181ab771",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fcopy%20killer.jpg?alt=media&token=6d87b488-aa27-4d25-ab69-d91c181ab771",
+            "displayHome": true,
+            "homeSortOrder": 5,
+            "navigationSortOrder": 5,
+            "status": true
+        },
+        "artist": {
+            "id": 1,
+            "artistName": "Nodenote Originals",
+            "image": "https://s3.ap-south-1.amazonaws.com/audiomonkhub/artist/icon-512x512px.png"
+        },
+        "premium": true,
+        "duration": "576",
+        "like": false,
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+    },
+    {
+        "id": 4,
+        "type": "Series",
+        "title": "Game of Cure",
+        "description": "",
+        "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+        "status": "Published",
+        "language": {
+            "id": 2,
+            "title": "English",
+            "status": true,
+            "coverImageUrl": null
+        },
+        "channel": {
+            "id": 1,
+            "channelTitle": "Nello",
+            "channelDescription": "",
+            "coverImage": null,
+            "thumbnail": null,
+            "active": false
+        },
+        "preference": {
+            "id": 1,
+            "title": "Thriller",
+            "coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+            "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+            "displayHome": true,
+            "homeSortOrder": 5,
+            "navigationSortOrder": 5,
+            "status": true
+        },
+        "artist": {
+            "id": 1,
+            "artistName": "Nodenote Originals",
+            "image": "https://s3.ap-south-1.amazonaws.com/audiomonkhub/artist/icon-512x512px.png"
+        },
+        "premium": true,
+        "duration": "576",
+        "like": false,
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+    }
+]

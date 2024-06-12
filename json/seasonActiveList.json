@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "media": null,
+        "seasonNo": 1,
+        "seasonTitle": "Murder in the lift",
+        "seasonDescription": "Murder in the lift",
+        "thumbnail": null,
+        "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a"
+    },
+    {
+        "id": 2,
+        "media": null,
+        "seasonNo": 1,
+        "seasonTitle": "Real Paranormal",
+        "seasonDescription": "Real Paranormal",
+        "thumbnail": null,
+        "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Freal%20paranormal.jpg?alt=media&token=abecd9d7-500a-4589-973a-0c73d3943a4d"
+    },
+    {
+        "id": 3,
+        "media": null,
+        "seasonNo": 1,
+        "seasonTitle": "The Copy Killer",
+        "seasonDescription": "The Copy Killer",
+        "thumbnail": null,
+        "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fcopy%20killer.jpg?alt=media&token=6d87b488-aa27-4d25-ab69-d91c181ab771"
+    },
+    {
+        "id": 4,
+        "media": null,
+        "seasonNo": 1,
+        "seasonTitle": "Game of Cure",
+        "seasonDescription": "Game of Cure",
+        "thumbnail": null,
+        "coverImage": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0"
+    }
+]

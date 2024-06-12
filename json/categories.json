@@ -1,0 +1,32 @@
+[
+  {
+    "id": 26,
+    "coverImageUrl": null,
+    "thumbnailUrl": "https://pophorror.com/wp-content/uploads/2016/04/fear-8.jpg",
+    "displayHome": true,
+    "homeSortOrder": 0,
+    "navigationSortOrder": 0,
+    "status": true,
+    "title": "Horror"
+  },
+  {
+    "id": 27,
+    "coverImageUrl": null,
+    "thumbnailUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltcce0fdf9f0091233/639a12572153e02da421465b/killer-Ron-Bailey-Alamy.jpg",
+    "displayHome": true,
+    "homeSortOrder": 1,
+    "navigationSortOrder": 1,
+    "status": true,
+    "title": "Thriller"
+  },
+  {
+    "id": 11,
+    "title": "Stories",
+    "coverImageUrl": null,
+    "thumbnailUrl": "https://s3.ap-south-1.amazonaws.com/audiomonkhub/preferences/250x250-stories.jpg",
+    "displayHome": true,
+    "homeSortOrder": 2,
+    "navigationSortOrder": 2,
+    "status": true
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "dataId1": {
+      "id": 1,
+      "mediaTitle": "Media Title 1",
+      "mediaDescription": "Description for Media 1",
+      "duration": 120,
+      "language": "English",
+      "prefernece": "music",
+      "premium": true,
+      "thumbnailUrl": "https://example.com/thumbnail1.jpg",
+      "like": true,
+      "type": "audio",
+      "metaTitle": "Meta Title 1",
+      "metaDescription": "Meta Description for Media 1",
+      "metaImageUrl": "https://example.com/metaimage1.jpg"
+  }
+}

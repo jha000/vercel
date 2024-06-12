@@ -1,0 +1,169 @@
+[
+  {
+    "id": 11,
+    "title": "Stories",
+    "coverImageUrl": null,
+    "thumbnailUrl": "https://s3.ap-south-1.amazonaws.com/audiomonkhub/preferences/250x250-stories.jpg",
+    "media": [
+      {
+        "id": 76,
+        "mediaTitle": "Lockdown",
+        "mediaDescription": "",
+        "duration": "118",
+        "language": "Hindi",
+        "prefernece": "Stories",
+        "premium": false,
+        "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2FLockdown%20(1).jpg?alt=media&token=a11a3849-965e-4157-a16c-587f8afff9bf",
+        "like": false,
+        "type": "Single",
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+      },
+      {
+        "id": 45,
+        "mediaTitle": "First Love",
+        "mediaDescription": "",
+        "duration": "610.2",
+        "language": "Hindi",
+        "prefernece": "Stories",
+        "premium": false,
+        "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2FFirst%20Love.jpg?alt=media&token=0b53f41d-f59a-4e39-9f27-75705a3791b0",
+        "like": false,
+        "type": "Single",
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+      },
+      {
+        "id": 44,
+        "mediaTitle": "Trapped in Tizanga",
+        "mediaDescription": "",
+        "duration": "666",
+        "language": "Hindi",
+        "prefernece": "Stories",
+        "premium": false,
+        "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2FTrapped%20in%20Tizanga.png?alt=media&token=753f517c-62ba-409c-8b5b-4c484a133875",
+        "like": false,
+        "type": "Single",
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+      },
+      {
+        "id": 40,
+        "mediaTitle": "Neuralink",
+        "mediaDescription": "",
+        "duration": "569.4",
+        "language": "Hindi",
+        "prefernece": "Stories",
+        "premium": false,
+        "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fneuralink.jpg?alt=media&token=8f9e983c-b2f4-489e-ba68-622fda46254b",
+        "artist": "Nodenote Originals",
+        "like": false,
+        "type": "Single",
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Mystery & Thriller",
+    "coverImageUrl": null,
+    "thumbnailUrl": "https://s3.ap-south-1.amazonaws.com/audiomonkhub/preferences/250x250.jpg",
+    "media": [
+      {
+        "id": 4,
+        "mediaTitle": "The Game of Cure",
+        "mediaDescription": "",
+        "duration": "346",
+        "SeriesId": 4,
+        "language": "English",
+        "prefernece": "Mystery & Thriller",
+        "premium": true,
+        "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fthe%20game%20of%20cure.jpg?alt=media&token=5c440c8d-ae83-4663-86cd-128977583cf0",
+        "artist": "Nodenote Originals",
+        "like": false,
+        "type": "Series",
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+      },
+      {
+        "id": 3,
+        "mediaTitle": "copy killer",
+        "mediaDescription": "",
+        "duration": "174",
+        "SeriesId": 3,
+        "language": "Hindi",
+        "prefernece": "Mystery & Thriller",
+        "premium": true,
+        "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fcopy%20killer.jpg?alt=media&token=6d87b488-aa27-4d25-ab69-d91c181ab771",
+        "like": false,
+        "type": "Series",
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+      },
+      {
+        "id": 1,
+        "mediaTitle": "Murder in the Lift",
+        "mediaDescription": "",
+        "duration": "168",
+        "SeriesId": 1,
+        "language": "Hindi",
+        "prefernece": "Mystery & Thriller",
+        "premium": true,
+        "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fmurder%20in%20the%20lift%20final.jpg?alt=media&token=0217bd65-dc3c-431b-9871-f08514952d0a",
+        "artist": "Nodenote Originals",
+        "like": false,
+        "type": "Series",
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Horror",
+    "coverImageUrl": null,
+    "thumbnailUrl": "https://s3.ap-south-1.amazonaws.com/audiomonkhub/preferences/horror.png",
+    "media": [
+      {
+        "id": 2,
+        "mediaTitle": "Real Paranormal",
+        "mediaDescription": "",
+        "duration": "174",
+        "language": "Hindi",
+        "prefernece": "Horror",
+        "SeriesId": 2,
+        "premium": true,
+        "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Freal%20paranormal.jpg?alt=media&token=abecd9d7-500a-4589-973a-0c73d3943a4d",
+        "like": false,
+        "type": "Series",
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+      },
+      {
+        "id": 82,
+        "mediaTitle": "Zombai",
+        "mediaDescription": "",
+        "duration": "168",
+        "language": "Hindi",
+        "prefernece": "Horror",
+        "premium": false,
+        "thumbnailUrl": "https://firebasestorage.googleapis.com/v0/b/nodenote-63309.appspot.com/o/resizePosters%2Fzombai.jpg?alt=media&token=137c1ff2-40f9-4528-9e3b-e100f8c559b7",
+        "artist": "Nodenote Originals",
+        "like": false,
+        "type": "Single",
+        "metaTitle": null,
+        "metaDescription": null,
+        "metaImageUrl": null
+      }
+    ]
+  }
+]
